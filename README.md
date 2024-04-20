@@ -18,5 +18,3 @@ Este é um projeto de teste para o Semantic Release. O Semantic Release automati
 | Convenções de commit | Segue as convenções de commit do AngularJS para determinar o tipo de versão a ser lançado. |
 
 ## Testes
-
-
